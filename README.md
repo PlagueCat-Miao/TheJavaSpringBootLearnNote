@@ -65,7 +65,7 @@ ArrayList 是非线程安全的、CopyOnWriteArrayList是安全的。 https://bl
 
  - Spring Boot 2.2.8 中使用的是 Maven
  - 最新发布的 Spring Boot 2.3.1 已经是切换到 Gradle 
-
+ - 我的上手demo:[SpringBoot + Mysql](https://github.com/PlagueCat-Miao/JavaSpringBoot-MySqlDemo)
  - [参考1]( https://blog.csdn.net/weixin_30950075/article/details/114030357?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
  - [参考2](https://blog.csdn.net/weixin_30849591/article/details/95536112?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.control&dist_request_id=1328641.25339.16156287741257537&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.control)
  - [参考3](https://blog.csdn.net/weixin_30950075/article/details/114030357?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.contro)
