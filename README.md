@@ -11,8 +11,9 @@ learn from video [<JavaSE零基础入门到入土（idea版）>](https://www.bil
 ### 2. 快捷操作
 
 1. `psvm`  =>   public static void main(String[] args) {}
-2. `alt +insent`  => 快速生成 (Code-Generate ) 可以生成setter and getter 很像C#的 get set
-3. for
+2. `sout` =>  System.out.println()
+3. `alt +insent`  => 快速生成 (Code-Generate ) 可以生成setter and getter 很像C#的 get set
+4. for
    -  `array.fori`  => for (int i = 0; i < a.length; i++) {}
    - `100.fori`  => for (int i = 0; i < 100; i++) {}
 
