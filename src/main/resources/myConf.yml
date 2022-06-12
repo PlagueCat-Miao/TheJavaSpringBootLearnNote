@@ -1,0 +1,4 @@
+myconf:
+  confmap:
+    local: '[F:\codeworkbase\java\github.com\PlagueCat-Miao\TheJavaSpringBootLearnNote\src\main\resources]'
+    test1: 'ok'

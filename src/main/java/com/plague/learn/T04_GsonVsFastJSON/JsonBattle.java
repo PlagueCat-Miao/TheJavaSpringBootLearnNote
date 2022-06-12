@@ -1,13 +1,11 @@
 package com.plague.learn.T04_GsonVsFastJSON;
 
 import com.alibaba.fastjson.JSON;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -45,6 +43,8 @@ public class JsonBattle {
         ans.put("test0",JSON.toJSONString(hashMap01));
         ans.put("test1",JSON.toJSONString(getHashMap()));
         ans.put("test2",JSON.toJSONString(testList));
+
+
         return JSON.toJSONString(ans);
     }
 
@@ -57,5 +57,7 @@ public class JsonBattle {
         hashMap02.put("p_l_a_g_u_e","b");
         return hashMap02;
     }
+
+
 
 }

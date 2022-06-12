@@ -1,0 +1,5 @@
+myconf:
+
+  confmap:
+    local: '[F:\codeworkbase\java\github.com\PlagueCat-Miao\TheJavaSpringBootLearnNote\src\main\resources\myConf2.yml]'
+    test2 : ok
